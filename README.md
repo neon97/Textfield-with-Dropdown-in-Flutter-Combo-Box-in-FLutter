@@ -11,7 +11,7 @@ Before getting started to write the code need to import a package that would hel
 
 After importing using the above code from main.dart you will get the build like this.....
 <h3>Combo Box in App</h3> 
-<img src="https://github.com/neon97/Textfield-with-Dropdown-in-Flutter-Combo-Box-in-FLutter/blob/master/Screenshots/Untitled.jpg?raw=true"  width="200" >
+<img src="https://github.com/neon97/Textfield-with-Dropdown-in-Flutter-Combo-Box-in-FLutter/blob/master/Screenshots/Untitled.jpg?raw=true"  width="600" >
 </img>
 
 
