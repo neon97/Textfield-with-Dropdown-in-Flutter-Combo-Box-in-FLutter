@@ -6,7 +6,7 @@ Now its time that you can have an Textfiled with Dropdown in Flutter just as you
 <img src="https://github.com/neon97/Textfield-with-Dropdown-in-Flutter-Combo-Box-in-FLutter/blob/master/Screenshots/combo%20box.jpg?raw=true"  width="200" >
 </img>
 Before getting started to write the code need to import a package that would help to make this build possible.....
-So lets get the package !!!
+
 <a class="github-button" href="https://pub.dev/packages/dropdownfield#-installing-tab-" data-size="large" aria-label="Follow @ntkme on GitHub">So lets get the package !!!</a>
 
 
