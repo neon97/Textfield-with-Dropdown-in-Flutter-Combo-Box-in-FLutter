@@ -13,5 +13,6 @@ After importing using the above code from main.dart you will get the build like 
 <h3>Combo Box in App</h3> 
 <img src="https://github.com/neon97/Textfield-with-Dropdown-in-Flutter-Combo-Box-in-FLutter/blob/master/Screenshots/Untitled.jpg?raw=true"  width="600" >
 </img>
+!!!!! Apologise for the wrong spelling mistake done in the image :P !!!!!
 
 
